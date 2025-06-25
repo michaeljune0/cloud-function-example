@@ -1,0 +1,5 @@
+boto3==1.28.0
+kubernetes==26.1.0
+prometheus-client==0.16.0
+pyyaml==6.0
+schedule==1.2.0
